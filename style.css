@@ -1,0 +1,41 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: none;
+}
+
+.cabecalho{
+margin-top: 10px;
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+p{
+display: flex;
+justify-content: flex-end;
+margin-right: 10px;
+}
+.lista{
+margin-left: 50px;
+}
+
+link{
+margin: 20px 20px;
+font-size: 50px;
+text-decoration: none;
+border: 2px green;
+border-radius: 20px;
+text-align: center;
+}
+a{
+text-decoration: none;
+}
+.tabela{
+ width: 600px;
+ display: flex;
+ margin: auto;
+
+}
+.tabela table{
+widht: 600px;
+}
